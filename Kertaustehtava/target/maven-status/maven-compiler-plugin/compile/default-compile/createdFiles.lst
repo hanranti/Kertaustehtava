@@ -1,0 +1,4 @@
+wad\controller\DefaultController.class
+wad\profiles\ProdProfile.class
+wad\profiles\DevProfile.class
+wad\Application.class
